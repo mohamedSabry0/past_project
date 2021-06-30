@@ -1,0 +1,23 @@
+#main{
+	background-color:#DCDDDD;
+	font-family: "times new roman"; 
+
+}
+#img-div{
+	background-color: white;
+}
+#image{
+	width: 100%;
+}
+h1{
+	font-size: 25px;
+	padding: 10px;
+}
+#tribute-info{
+	text-align: left;
+	margin: auto;
+	width:50%;
+}
+li{
+	margin-bottom: 10px;
+}
